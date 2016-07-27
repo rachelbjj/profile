@@ -102,3 +102,10 @@ i:hover {
   color:#880031;
 }
 
+#center_p {
+  margin: 0px 0px;
+}
+
+object {
+  margin: 100px, 25%;
+}
